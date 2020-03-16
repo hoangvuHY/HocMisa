@@ -1,0 +1,5 @@
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai1Library\obj\Debug\Bai1Library.csprojAssemblyReference.cache
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai1Library\bin\Debug\Bai1Library.dll
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai1Library\bin\Debug\Bai1Library.pdb
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai1Library\obj\Debug\Bai1Library.dll
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai1Library\obj\Debug\Bai1Library.pdb

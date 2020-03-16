@@ -1,0 +1,1 @@
+Copy toàn bộ thư mục nằm trong thư mục Resource vào thư mục gốc của Project.

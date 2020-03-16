@@ -1,0 +1,5 @@
+﻿Xây dựng UI danh sách nhân viên theo các mô tả được liệt kê trong thư mục UI Design.
+- Giao diện cân đối không xô lệch, màu sắc, kích thước đúng với yêu cầu được mô tả.
+- Hiển thị tốt trên các độ phân giải khác nhau (tối thiểu 1024 * 769).
+- Tuân thủ UI Convention.
+- Tuân thủ về Naming convention.

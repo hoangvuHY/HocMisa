@@ -1,0 +1,46 @@
+﻿* Ảnh sửa dụng làm icon cho các button trên toolbar *
+ background-image: url('/Contents/images/IconSprite.png');
+
+* Possition *
+/*button thêm*/
+.btn-icon-add {
+    background-position: 0-2648px !important;
+}
+
+/*button nhân bản*/
+.btn-icon-duplicate {
+    background-position: 0-1888px !important;
+}
+
+/*button sửa */
+.btn-icon-edit {
+    background-image: url('/Contents/images/Edit16.png') !important;
+    background-repeat: no-repeat;
+}
+
+/*button xóa*/
+.btn-icon-delete {
+    background-position: 0-2680px;
+}
+
+/*button nạp*/
+.btn-icon-refresh {
+    background-position: 0-2584px;
+}
+
+/*button giúp*/
+.btn-icon-help {
+    background-position: 0-1600px;
+}
+
+/*button nhập khẩu*/
+.btn-icon-import {
+    background-image: url('/Contents/images/Import16.png') !important;
+    background-repeat: no-repeat;
+}
+
+/*button xuất khẩu*/
+.btn-icon-export {
+    background-image: url('/Contents/images/excel_97_24.png') !important;
+    background-repeat: no-repeat;
+}

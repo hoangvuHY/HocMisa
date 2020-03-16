@@ -1,0 +1,6 @@
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\bin\Debug\Bai2Test.exe.config
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\bin\Debug\Bai2Test.exe
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\bin\Debug\Bai2Test.pdb
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\obj\Debug\Bai2Test.csprojAssemblyReference.cache
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\obj\Debug\Bai2Test.exe
+D:\File_Lap_Trinh\HocMisa\Bai2Test\Bai2Test\obj\Debug\Bai2Test.pdb

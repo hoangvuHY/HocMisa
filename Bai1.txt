@@ -1,0 +1,16 @@
+	.NET Framework hỗ trợ xây dựng tất cả các loại ứng dụng từ Destop => Web => Mobile	
+	
+	Tất cả ứng dụng .NET đều là OOP
+	
+	C# là ngôn ngữ trên .NET, ngoài ra còn có rất nhiều ngôn ngữ khác: VB.NET, VC++, J#, F#,...
+
+1. Class
+- Lớp mô hình hóa các đối tượng trong thực tế, bao gồm:
+	-) Thuộc tính (Trạng thái , trường)
+	-) Hành vì( phương thức, hành động)
+- Lớp mô tả cấu trúc của các đối tượng 
+	-) 1 đối tượng là một thể hiện cụ thể của một lớp
+Sự khác biệt giữa Object và Class
+	Object là một thể hiện của mọt Class
+2. Cách vào VS
+

@@ -1,0 +1,9 @@
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\bin\Debug\Bai_01.exe.config
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\bin\Debug\Bai_01.exe
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\bin\Debug\Bai_01.pdb
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\obj\Debug\Bai_01.csprojAssemblyReference.cache
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\obj\Debug\Bai_01.exe
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\obj\Debug\Bai_01.pdb
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\bin\Debug\Bai1Library.dll
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\bin\Debug\Bai1Library.pdb
+D:\File_Lap_Trinh\HocMisa\Bai_01\Bai_01\obj\Debug\Bai_01.csproj.CopyComplete
